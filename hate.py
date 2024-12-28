@@ -1,5 +1,5 @@
 import streamlit as st
-from HateDetection import svm, cv, clean_data
+from .HateDetection import svm, cv, clean_data
 
 # Custom CSS
 st.markdown(

@@ -76,7 +76,7 @@ data
 
 import re
 import nltk
-
+nltk.download('stopwords')
 
 # In[13]:
 
